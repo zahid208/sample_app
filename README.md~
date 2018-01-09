@@ -21,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ... new SAMPLE APP >>>>>>>> CHEPTER 3
+* ... new SAMPLE APP >>>>>>>> CHEPTER  jkdfs
